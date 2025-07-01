@@ -31,12 +31,12 @@ struct CheckInView: View {
                             )
                         )
                     
-                    Text("Learnify Check-In")
+                    Text("Learnify 登入")
                         .font(.largeTitle)
                         .fontWeight(.bold)
                         .foregroundColor(.primary)
                     
-                    Text("Submit your daily check-in to earn points!")
+                    Text("沒登入就沒分數，自己想想")
                         .font(.subheadline)
                         .foregroundColor(.secondary)
                         .multilineTextAlignment(.center)
